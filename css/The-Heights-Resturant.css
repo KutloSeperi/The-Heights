@@ -729,7 +729,7 @@ strong {
 
 .site-footer::before {
   content: "";
-  background: linear-gradient(to top, var(--dark-color), transparent 100%);
+  background: linear-gradient(to top, var(--dark-color), transparent 250%);
   position: absolute;
   top: 0;
   right: 0;
@@ -741,12 +741,6 @@ strong {
   position: relative;
 }
 
-.tooplate-mt30 {
-	margin-top: 30px;
-}
-.tooplate-mt60 {
-	margin-top: 60px;
-}
 
 .copyright-text {
   font-size: var(--menu-font-size);
@@ -874,7 +868,13 @@ strong {
     height: 200px;
     transform: rotate(180deg);
   }
-
+  .hero-banner {
+    background-image: url('../images/the heights.png');
+    background-position: left;
+    scale: 100%;
+    
+    
+  }
   #BookingModal .modal-body {
     padding-top: 18px;
     padding-right: 32px;
