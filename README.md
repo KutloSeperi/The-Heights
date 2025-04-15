@@ -4,7 +4,7 @@ The Heights Restaurant
 The Heights Restaurant is a premium dining destination known for its panoramic views, exceptional cuisine, and contemporary ambiance. Situated atop one of the tallest buildings in the area, The Heights offers an unmatched dining experience, combining fine food with breathtaking cityscapes.
 
 Cuisine
-The Heights prides itself on offering a diverse and seasonal menu, curated by world-class chefs who focus on using locally-sourced ingredients. The menu typically includes:
+The Heights prides itself on offering a diverse and seasonal menu, curated by world-class chefs who focus on using locally sourced ingredients. The menu typically includes:
 
 Modern European Cuisine: With a variety of dishes that showcase culinary artistry, from seafood specials to perfectly grilled steaks.
 Vegan and Vegetarian Options: Innovative plant-based dishes are crafted with as much attention to flavor and presentation as their non-vegan counterparts.
@@ -20,3 +20,4 @@ For special occasions, The Heights offers private dining options and customizabl
 
 Reservations and Location
 Given the popularity of The Heights, reservations are recommended, especially for dinner and weekends. Its location atop a skyscraper makes it easily accessible, with valet parking and other services provided for convenience.
+# The Heights
