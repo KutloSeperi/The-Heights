@@ -1,4 +1,4 @@
-# The-Heights
+##The-Heights
 
 The Heights Restaurant
 The Heights Restaurant is a premium dining destination known for its panoramic views, exceptional cuisine, and contemporary ambiance. Situated atop one of the tallest buildings in the area, The Heights offers an unmatched dining experience, combining fine food with breathtaking cityscapes.
